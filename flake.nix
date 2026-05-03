@@ -1,5 +1,5 @@
 {
-  description = "aspyn dev shell";
+  description = "aspyn-legacy dev shell";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.11";

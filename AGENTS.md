@@ -1,4 +1,4 @@
-# aspyn
+# aspyn-legacy
 
 A local-first CLI for scriptable, config-driven pipelines. Pipelines are defined as JSONC configs under `~/.config/aspyn/<name>/config.jsonc` and executed as a generic sequence of named steps.
 

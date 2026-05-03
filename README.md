@@ -1,8 +1,15 @@
-# 🌲 aspyn
+# 🌲 aspyn-legacy
+
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](./LICENSE)
+
+**This repository contains the original implementation of aspyn.**
+
+The new version is more lightweight, focused on being a tiny unix shell pipeline
+runner with state:
 
 [![GitHub](https://img.shields.io/badge/github-lpke%2Faspyn-blue?logo=github)](https://github.com/lpke/aspyn)
-[![npm](https://img.shields.io/npm/v/@lpke/aspyn)](https://www.npmjs.com/package/@lpke/aspyn)
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](./LICENSE)
+
+---
 
 > A local pipeline engine that gives your scripts a memory.
 

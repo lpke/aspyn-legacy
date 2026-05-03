@@ -1,15 +1,15 @@
 {
-  "name": "@lpke/aspyn",
+  "name": "@lpke/aspyn-legacy",
   "version": "0.2.4-alpha",
   "author": "luke@lpdev.io",
   "description": "A local pipeline engine that gives your scripts a memory.",
-  "homepage": "https://github.com/lpke/aspyn#readme",
+  "homepage": "https://github.com/lpke/aspyn-legacy#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lpke/aspyn.git"
+    "url": "git+https://github.com/lpke/aspyn-legacy.git"
   },
   "bugs": {
-    "url": "https://github.com/lpke/aspyn/issues"
+    "url": "https://github.com/lpke/aspyn-legacy/issues"
   },
   "type": "module",
   "scripts": {
@@ -22,7 +22,7 @@
     "dist"
   ],
   "bin": {
-    "aspyn": "dist/cli.js"
+    "aspyn-legacy": "dist/cli.js"
   },
   "publishConfig": {
     "access": "public",
